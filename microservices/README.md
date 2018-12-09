@@ -17,8 +17,8 @@ curl localhost:8080
 
 ## API
 
-/api/v1/products/
-/api/v1/orders/
+- /api/v1/products/
+- /api/v1/orders/
 
 ## Recommendations
 - I would have liked to use Apache Thrift for the integration between services. I think it's much more transparent.
